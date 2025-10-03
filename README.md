@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vitor Rocha
+# 👨🏻‍💻 Vitor Rocha
 
 **`Desenvolvedora FullStack`**
 
