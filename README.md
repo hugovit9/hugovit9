@@ -101,7 +101,22 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     >
-    
+     <img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    >
+     <img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    >
 
 
 <br/>
