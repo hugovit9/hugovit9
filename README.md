@@ -12,7 +12,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -20,7 +20,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -28,7 +28,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -39,7 +39,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -49,7 +49,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="SQL" 
     title="SQL Server"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -59,7 +59,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
@@ -69,7 +69,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="Express" 
     title="Express"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
@@ -78,7 +78,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
     >
@@ -88,7 +88,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="Mongoose" 
     title="Mongoose"
-    width="50" 
+    width="40" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"
     >
@@ -97,7 +97,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="C#" 
     title="C#"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     >
@@ -105,7 +105,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="React" 
     title="React"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     >
@@ -113,7 +113,7 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
     align="left" 
     alt="TypeScript" 
     title="TypeScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     >
@@ -121,7 +121,8 @@ Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou
 
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 ## Contato e links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vitrocha/)
