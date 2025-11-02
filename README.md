@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vitor Rocha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Vitor Rocha, tenho 21 anos e sou natural de São Paulo. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e um grande entusiasta em tecnologia. Meu foco é aprender e aplicar soluções inovadoras. 
 
